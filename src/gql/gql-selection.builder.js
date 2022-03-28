@@ -1,0 +1,3 @@
+// constructor
+export function GqlSelectionBuilder() {
+}

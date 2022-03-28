@@ -1,0 +1,26 @@
+{
+  "name": "frontend-js-home-assignment-public",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Nadav Shabtai",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/solidifyio/frontend-js-home-assignment-public#readme",
+  "dependencies": {
+    "json-to-graphql-query": "^2.2.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@types/jest": "^27.4.1",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest --config ./jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/solidifyio/frontend-js-home-assignment-public.git"
+  }
+}
